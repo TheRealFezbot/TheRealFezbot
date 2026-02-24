@@ -17,8 +17,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-*Replace these with your own tech stack! Find more badges at [shields.io](https://shields.io) or [this repository](https://github.com/Ileriayo/markdown-badges)*
-
 ### Connect with me
 [LinkedIn](https://linkedin.com/in/ferryrietveld) • [My Scrimba Profile](https://scrimba.com/u43ae492) • [Twitter](https://x.com/FezbotGameDev)
 <br>
