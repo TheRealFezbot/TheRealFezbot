@@ -36,6 +36,7 @@
 | | |
 |---|---|
 | <br>**[Budget-Tracker](https://github.com/therealfezbot/budget-tracker)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>My first full-stack personal project. I wanted to try and create something simple with a working database, back-end and front-end<br><br><sub>[Tech Stack - React • FastAPI • PostgreSQL]</sub><br><br>
+| <br>**[Forgeborn Chronicles](https://github.com/therealfezbot/Forgeborn-Chronicles)** <img src="https://img.icons8.com/?size=100&id=6Or3STDYuLF6&format=png&color=000000" alt="Icon" width="18" /><br><br>A browser-based RPG with turn-based combat, character progression, zone exploration, and an item/shop system<br><br><sub>[Tech Stack - React • FastAPI • PostgreSQL • Redis]</sub><br><br>
 
 
 ---
